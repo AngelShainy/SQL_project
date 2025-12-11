@@ -154,14 +154,3 @@ from Books b
 join Order_Details od on b.book_id = od.book_id
 group by b.author
 order by books_sold desc
-
----
-
-If you want, I can also:
-
-• Add a project description in Telugu-English mix
-• Add screenshots section
-• Add installation steps
-• Add ER diagram for your project
-
-Just tell me!
